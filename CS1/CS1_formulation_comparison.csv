@@ -1,0 +1,11 @@
+ncp,formulation,activation,solver,hessian,note,variables,constraints,t_build_s,t_solve_s,t_solve_sd,t_first_s,iters,ms_per_iter,objective,status
+2,ECE-FS,tanh,ipopt,exact,,2562,2539,0.2227,0.7487,0.009,1.0049,135,5.546,0.76996975,optimal
+2,ECE-FS,tanh,cyipopt,exact,,2562,2539,0.2333,2.2123,0.0499,2.4033,134,16.51,0.76996975,optimal
+2,ECE-RS,tanh,ipopt,exact,,315,292,0.0941,0.1777,0.0051,0.2782,12,14.811,0.76996975,optimal
+2,ECE-RS,tanh,cyipopt,exact,,315,292,0.0889,0.1777,0.0061,0.2661,12,14.805,0.76996975,optimal
+2,EFE,tanh,cyipopt,exact,,210,187,0.0083,0.1992,0.0069,0.6679,14,14.231,0.7699698,optimal
+3,ECE-FS,tanh,ipopt,exact,,3782,3749,0.6947,1.4155,0.0404,1.5992,146,9.695,0.76997211,optimal
+3,ECE-FS,tanh,cyipopt,exact,,3782,3749,0.6128,6.6363,0.06,7.4835,140,47.402,0.76997211,optimal
+3,ECE-RS,tanh,ipopt,exact,,465,432,0.2805,0.3485,0.0257,0.7342,13,26.806,0.76997211,optimal
+3,ECE-RS,tanh,cyipopt,exact,,465,432,0.2599,0.4495,0.0372,0.7332,13,34.576,0.76997211,optimal
+3,EFE,tanh,cyipopt,exact,,310,277,0.0172,0.4143,0.0167,1.0896,14,29.592,0.76997216,optimal
